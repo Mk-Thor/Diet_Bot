@@ -1,0 +1,12 @@
+Use PyCharm to run the code
+
+First, save this in different files and the file format should be
+  > Your_file_name
+    >.venv
+    >static
+    >Templates
+      <>Front.html
+    >app.py
+    >chatbot.py
+
+Run the program in app.py 
